@@ -6,20 +6,6 @@ Coca-Cola, one of the world's largest and most successful beverage companies, of
 
 This project focuses on analyzing Coca-Cola's sales data by creating a comprehensive sales analysis dashboard using Power BI. The goal is to provide insights into the company's sales performance, identify trends, and suggest areas for improvement.
 
-## Key Features of the Dashboard
-
-- **Track Sales Performance Over Time:**
-  - This dashboard shows how the sales figures of Coca-Cola have evolved during different months. The "Sales by Month" bar chart depicts the trend in monthly sales, indicating periods of high and low sales.
-
-- **Identify Trends and Patterns:**
-  - The dashboard examines sales data to uncover key trends, such as the highest sales months and the most lucrative product categories. The "Units Sold by Beverage Brand" chart visualizes which products generate the most sales, with Coca-Cola leading at 4.1M units.
-
-- **Compare Sales Across Regions, Products, and Channels:**
-  - The "Total Sales by Region" bar chart highlights the contribution of each region to overall performance. The dashboard provides comparative analytics across various products and states, with New York and California leading in sales.
-
-- **Identify Areas for Improvement:**
-  - The "Top Cities by Total Sales" and "Top 5 States by Sales" charts provide insights into underperforming geographic regions. These areas, such as the Midwest and South, can be targeted for improvement campaigns to boost sales.
-
 ## Insights from the Dashboard
 
 - **Monthly Sales Variations:**
