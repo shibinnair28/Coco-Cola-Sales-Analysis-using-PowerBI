@@ -6,8 +6,6 @@ Coca-Cola, one of the world's largest and most successful beverage companies, of
 
 This project focuses on analyzing Coca-Cola's sales data by creating a comprehensive sales analysis dashboard using Power BI. The goal is to provide insights into the company's sales performance, identify trends, and suggest areas for improvement.
 
-# Coca-Cola Sales Data Analysis Using Power BI
-
 ## Key Features of the Dashboard
 
 - **Track Sales Performance Over Time:**
