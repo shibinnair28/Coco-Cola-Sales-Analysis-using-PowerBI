@@ -26,13 +26,3 @@ This project focuses on analyzing Coca-Cola's sales data by creating a comprehen
 ## Tools Used
 
 - **Power BI:** A powerful business analytics tool used to visualize and analyze sales data.
-
-## How to Use
-
-1. **Clone the Repository:** Use the command `git clone <repository-link>` to clone the project to your local machine.
-2. **Open Power BI Dashboard:** Launch the Power BI file included in the repository to explore the sales analysis dashboard.
-3. **Explore Insights:** Use the interactive features of the dashboard to explore the various insights generated from the sales data.
-
-## Contributing
-
-Feel free to fork this repository, make changes, and submit pull requests. Any contributions to improve the analysis or enhance the dashboard are welcome.
